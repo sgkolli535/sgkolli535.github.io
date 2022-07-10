@@ -1,12 +1,13 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "sgkolli535.github.io",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Sumi Kolli's Gatsby Portfolio Website",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "deploy": "gatsby build && gh-pages -d public -b main"
   },
   "engines": {
     "node": ">=16.0.0"
@@ -17,13 +18,13 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Sumi Kolli",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "homepage": "https://sgkolli535.github.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "https://github.com/sgkolli535/sgkolli535.github.io.git"
   },
   "bugs": {
     "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
@@ -39,5 +40,8 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
