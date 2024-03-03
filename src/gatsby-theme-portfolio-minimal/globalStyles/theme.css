@@ -1,0 +1,42 @@
+
+body[data-theme='lightTheme'] {
+    --primary-color: #fafafa;
+    --secondary-color: rgba(0, 0, 0, 0.16);
+    --tertiary-color: rgba(0, 0, 0, 0.32);
+    --text-color: rgba(255, 255, 255, 0.87);
+    --subtext-color: #fafafa;
+    --background-color: #CCD4BF;
+    --card-background-color: #CCD4BF;
+    --scroll-bar-color: rgba(255, 255, 255, 0.5);
+    --box-shadow-color: rgba(0, 0, 0, 0.16);
+    --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
+    --base-font: 'Georgia', serif;
+    --code-block-bg: #151f28;
+    --code-block-var: #ff39a7;
+    --code-block-num: #fed703;
+    --code-block-fun: #c653ff;
+    --code-block-keyword: #2bdcff;
+    --code-block-comment: #8292a2;
+    --code-block-tkimp: #fd971f;
+}
+
+body[data-theme='darkTheme'] {
+    --primary-color: #fafafa;
+    --secondary-color: rgba(0, 0, 0, 0.16);
+    --tertiary-color: rgba(0, 0, 0, 0.32);
+    --text-color: rgba(255, 255, 255, 0.87);
+    --subtext-color: #fafafa;
+    --background-color: #CCD4BF;
+    --card-background-color: #CCD4BF;
+    --scroll-bar-color: rgba(255, 255, 255, 0.5);
+    --box-shadow-color: rgba(0, 0, 0, 0.16);
+    --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
+    --base-font: 'Georgia', serif;
+    --code-block-bg: #151f28;
+    --code-block-var: #ff39a7;
+    --code-block-num: #fed703;
+    --code-block-fun: #c653ff;
+    --code-block-keyword: #2bdcff;
+    --code-block-comment: #8292a2;
+    --code-block-tkimp: #fd971f;
+}

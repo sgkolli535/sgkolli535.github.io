@@ -1,22 +1,23 @@
 {
-  "intro": "Hej",
+  "intro": "Introducing... Sumi Kolli!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/IMG_4667.png",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/nail-polish.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Welcome to my Portfolio",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Check out ",
+    "highlight": "my projects & poetry",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Or take a look at these links for even more info:",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }
+

@@ -2,47 +2,81 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Major League Hacking Fellowship",
+      "title": "Get-SVG-Icons",
+      "description": "Scripting to parse and extract SVG Icons and integrate into VS Code Extension for searching and inline-recommending icons.",
+      "tags": ["Typescript", "Beautiful Soup", "Over 1K Installs"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/icons.png",
+        "alt": "app image"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/sgkolli535/Get-svg-icons"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://marketplace.visualstudio.com/items?itemName=marcochan.get-svg-icons"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "LavaLab S23",
+      "title": "Clarity",
+      "description": "Developed Flutter mobile app that lets users scan skincare products and receive customized ratings based on the product's compatibility for their skin needs. Users input their skin data to tailor the algorithm to give accurate ratings and recommendations for sccanned products.",
+      "tags": ["Flutter", "Dart", "Google Cloud Vision API"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/clarity.png",
+        "alt": "app image"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/clarity-skincare/clarity-skincare/tree/main"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "HackSC 2023",
+      "title": "Twitter Skyline",
+      "description": "Implement complex full-stack web app that renders 3D buildings in the shape of a skyline to represent key metrics and trends of countries from the Twitter API. Post-processing was used to create a bloom effect, ray tracking was We used to hyperlink each building to a twitter topic.",
+      "tags": ["Three.js", "Twitter API", "Typescript"],
+      "image": {
+        "src": "../../images/skyline.png",
+        "alt": "app image"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://devpost.com/software/twitter-skyline"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Develop for Good",
+      "title": "CARE International Somali - Maternal Hospital App",
+      "description": "Spearhead the product management and development of a web app to schedule appointments, track records, and offer telehealth support via chatting for 5,000+ patients for CARE International's Maternal Hospital in Somali.",
+      "tags": ["React.js", "Node.js", "Firebase"],
+      "image": {
+        "src": "../../images/care.jpg",
+        "alt": "app image"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://devpost.com/software/twitter-skyline"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "View More on Github",
+    "url": "https://github.com/sgkolli535"
   }
 }
+
